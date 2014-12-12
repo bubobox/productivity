@@ -7,7 +7,7 @@ Install
 -------
 You can install this project by opening your terminal and pasting following command:
 
-	bash <(curl -s https://raw.githubusercontent.com/bubobox/productivity/master/easy.sh)
+	bash <(curl -s https://raw.githubusercontent.com/bubobox/productivity/master/go.sh)
 
 _Tip: You can also start the productivity apps from the new OSX spotlight or [Alfred](http://www.alfredapp.com/). It would be pretty onproductive if you would start/stop this app by using your mouse and the applications folder._
 
