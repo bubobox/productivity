@@ -14,6 +14,7 @@ Apps
 * __Productivity off:__ Enable all notifications again and set the status of Skype and HipChat to "Online"
 * _Presentation on:_ The same as productivity mode but this will also hide all your desktop items
 * _Presentation off:_ The same os productivity off but it will also unhide your desktop items
+* __Pomodoro:__ This is not yet working like it should. There are some problems with the delays
 
 Todo
 ----
