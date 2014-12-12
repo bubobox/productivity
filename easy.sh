@@ -1,3 +1,4 @@
+# Easy installation
 
 # Make sure to start clean
 rm -rf /tmp/productivity-master.zip

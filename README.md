@@ -6,7 +6,7 @@ Some automation scripts that will boost the productivity.
 Install
 -------
 
-bash <(curl -s https://raw.githubusercontent.com/bubobox/productivity/master/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/bubobox/productivity/master/easy.sh)
 
 Download the project, extract the zip and copy the the `BuboBox Productivity On.app` and `BuboBox Productivity Off.app` to your Applications folder.
 Now you can just start productivity session by starting the `BuboBox Productivity On.app`.
