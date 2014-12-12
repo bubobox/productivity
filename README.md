@@ -5,8 +5,10 @@ Some automation scripts that will boost the productivity.
 
 Install
 -------
-Download the repository and do `make install` in the root of the repository to install the apps in your applications folder.
-If you are planning to use it via Alfred you don't have to do the make install step. Just open alfred and type `BuboBox`.
+Download the project, extract the zip and copy the the `BuboBox Productivity On.app` and `BuboBox Productivity Off.app` to your Applications folder.
+Now you can just start productivity session by starting the `BuboBox Productivity On.app`.
+
+_Tip: You can also start the productivity apps from the new OSX spotlight or [Alfred](http://www.alfredapp.com/). It would be pretty onproductive if you would start/stop this app by using your mouse and the applications folder._
 
 Apps
 ----
