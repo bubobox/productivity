@@ -22,9 +22,9 @@ Apps
 Make commands
 -------------
 
-`make build`: Build app version if the scripts in src folder
-`make install`: Copy the files created by `make build` to the applications folder
-`make uninstall`: Delete the apps from the applications folder
+* `make build`: Build app version if the scripts in src folder
+* `make install`: Copy the files created by `make build` to the applications folder
+* `make uninstall`: Delete the apps from the applications folder
 
 Todo
 ----
